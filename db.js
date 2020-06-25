@@ -1,10 +1,10 @@
 var config = {
     database: {
-        host: 'laundry',
+        host: 'localhost',
         user: 'root',
         password: '',
         port: '3306',
-        db: 'c2c'
+        db: 'laundry'
     }
 }
 
